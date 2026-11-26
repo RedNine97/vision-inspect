@@ -13,8 +13,9 @@ select * from (
 PIVOT (
     count(*)
         for name in (
-                'Out123' AS Out123, 
-                'Out1' AS Out1, 'Out2' AS Out2, 
-                'Out3' AS Out3
+                'Out123' AS Out123
+                , 'Out1' AS Out1
+                , 'Out2' AS Out2
+                , 'Out3' AS Out3
                 )
 );
