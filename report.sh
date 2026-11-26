@@ -14,7 +14,7 @@ PIVOT (
     count(*)
         for name in (
                 'Out123' AS a_1
-                , 'Out1' AS a_2...........+0
+                , 'Out1' AS a_2
                 , 'Out2' AS a_3
                 , 'Out3' AS a_4
                 )
