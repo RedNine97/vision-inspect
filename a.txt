@@ -8,3 +8,4 @@ if(x < 0) {
 
 sys.out.println("x는 :" + x);
 
+#수정
