@@ -1,7 +1,4 @@
-test test test
+# a 텍스트 수정
 
-
-
-tttt # rednine
-
+int x = 0;
 
